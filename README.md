@@ -11,7 +11,8 @@
 ---
 ## 🚀 Simon Says Game Preview 
 
-![Screenshot 2025-02-20 231143](https://github.com/user-attachments/assets/5fb67d25-4d5d-4c1f-9394-92a307134557)
+![Screenshot 2025-02-20 232430](https://github.com/user-attachments/assets/d7b130ac-9e19-44c1-aabb-7ddf5ce134c8)
+
 
 ---
 ## 📜 About the Project  
